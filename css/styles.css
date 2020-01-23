@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova|Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.btnbg {
+    color: black;
+}
+
+.social {
+    padding-top: 6px;
+    padding-left: 10px;
+}
+
+.jumtxt {
+    color: black;
+}
+
+.jumbotron {
+    background: url(../img/006.jpg) center center no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.well {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+.wellbg1 {
+    background: goldenrod;
+}
+
+.wellbg2 {
+    background: lightblue
+}
+
+.wellbg3 {
+    background: hotpink;
+}
+
+.maintxt {
+    color: black;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+}
