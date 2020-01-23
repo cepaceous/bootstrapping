@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/chris/Desktop/mfw/bsgrid"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrapping"
+	}
+}
